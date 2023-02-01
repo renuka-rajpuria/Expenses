@@ -1,37 +1,8 @@
 ![GitHub Cards Preview](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSO-ANDROID.png?raw=true)
 
 # Expenso 📊
-A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. *Made with love ❤️ by [Spikeysanju](https://github.com/Spikeysanju)*
+A Simple Expense Tracker App 📱 built to demonstrate the use of modern android architecture component with MVVM Architecture 🏗. 
 
-<br />
-
-***Try latest Expenso app apk from below 👇***
-
-[![Expenso](https://img.shields.io/badge/Expenso-APK-black.svg?style=for-the-badge&logo=android)](https://github.com/Spikeysanju/Expenso/releases/download/v1.0.0-alpha01/Expenso.apk)
-
-<br />
-
-## UI Design 🎨
-
-***Click to View Expenso app Design from below 👇***
-
-[![Expenso](https://img.shields.io/badge/Expenso-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/file/Z5KMfiwo9RYtYBUMRSIfHh/Expense-Tracker-App?node-id=140%3A1016)
-
-<br />
-
-## Day Mode 🌞
-Dashboard | All Income | All Expense | Details | Add Transaction 
---- | --- | --- |--- |--- 
-![](https://github.com/Spikeysanju/Expenso/blob/master/art/DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/ADD-TRANSACTION.png) 
-
-<br />
-
-## We Support Dark Mode Too 🌚
-Dashboard | All Income | All Expense | Details | Add Transaction 
---- | --- | --- |--- |--- 
-![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DASHBOARD.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-INCOME.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-EXPENSE.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-DETAILS.png) | ![](https://github.com/Spikeysanju/Expenso/blob/master/art/DARK-ADD-TRANSACTION.png) 
-
-<br />
 
 
 ## Built With 🛠
@@ -97,36 +68,11 @@ You need to have [Android Studio Beta 3 or above](https://developer.android.com/
 
 <br>
 
-## Ohh You want iOS App Too? 📱 
-Well, we've iOS version here, Checkout the iOS version of this app <a href="https://github.com/sameersyd/Expenso">Expenso</a>
-
 <br />
-
-## Contribute 🤝
-If you want to contribute to this app, you're always welcome!
-See [Contributing Guidelines](https://github.com/Spikeysanju/Expenso/blob/master/CONTRIBUTION.md). 
-
-<br>
-
-## Contact 📩
-Have an project? DM us at 👇
-
-Drop a mail to:- spikeysanju98@gmail.com
-
-<br>
-
-## Donation 💰
-If this project help you reduce time to develop, you can give me a cup of coffee :) 
-
-<a href="https://www.buymeacoffee.com/Li0hsl4" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-
-<br>
-
 
 ## Credits 🤗
 
 - 🤓 Icons are from [tablericons.com](https://tablericons.com) 
-- 📄 Thanks for [NotyKT](https://github.com/PatilShreyas/NotyKT)
 
 <br />
 
@@ -135,7 +81,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
     Apache 2.0 License
 
 
-    Copyright 2021 Spikey sanju
+    Copyright 2021 WE Program
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
